@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.homepage h1 {
+  border: ridge 1px tomato;
+}
+
+h1 {
+  font-weight: 1000;
+  font-size: 35px;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.homepage ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  background-color: tomato;
+}
+
+.pages {
+  background-color: tomato;
+}
+
+.pages h1 {
+  border: ridge 2px azure;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+ol {
+  border: dotted 3px azure;
+}
